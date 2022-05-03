@@ -31,10 +31,13 @@
 *.out
 *.app
 *.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
 *.log
 *.ilk
 *.pdb
 *.sln
-# Files
 
+# Files
+.vs
 Debug
